@@ -3,7 +3,7 @@
 import PackageDescription
 
 let package = Package(
-  name: "Ogg",
+  name: "ogg",
 
   products: [
     .library(name: "Ogg", targets: ["Ogg"]),
